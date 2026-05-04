@@ -194,9 +194,9 @@
         Fun {
             display-name = "Function";
             bindings = <
-&trans  &terminal  &kp F7  &kp F8  &kp F9  &kp F10    &kp PRINTSCREEN  &msc SCRL_UP    &mkp RCLK         &mkp MB3    &none  &trans
-&trans  &none      &kp F4  &kp F5  &kp F6  &kp F11    &msc SCRL_UP     &mkp MB1        &mkp MB2          &mkp MB3    &none  &trans
-&trans  &none      &kp F1  &kp F2  &kp F3  &kp F12    &msc SCRL_DOWN   &msc SCRL_DOWN  &kp K_PLAY_PAUSE  &kp K_NEXT  &none  &trans
+&trans  &terminal  &kp F7  &kp F8  &kp F9  &kp F10    &kp PRINTSCREEN  &msc SCRL_UP    &mkp RCLK         &mkp MB3  &none  &trans
+&trans  &none      &kp F4  &kp F5  &kp F6  &kp F11    &msc SCRL_UP     &mkp MB1        &mkp MB2          &mkp MB3  &none  &trans
+&trans  &none      &kp F1  &kp F2  &kp F3  &kp F12    &msc SCRL_DOWN   &msc SCRL_DOWN  &kp K_PLAY_PAUSE  &kp B     &none  &trans
                            &trans  &trans  &trans     &trans           &trans
             >;
         };
